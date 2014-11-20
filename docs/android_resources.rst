@@ -6,8 +6,7 @@ If you're a complete beginner take a look at this article by LifeHacker_.
 Guides
 ------
 
-- `CodePath Android Cliff Notes`_: Crowd sourced android guides for every level (beginner,
-intermediate, expert).
+- `CodePath Android Cliff Notes`_: Crowd sourced android guides for every level (beginner,intermediate, expert).
 
 - `Getting Started by Google`_
 
@@ -35,8 +34,6 @@ intermediate, expert).
 
 
 
-
-
 .. _LifeHacker: http://lifehacker.com/i-want-to-write-android-apps-where-do-i-start-1643818268
 
 .. _`CodePath Android Cliff Notes`: https://github.com/codepath/android_guides/wiki
@@ -56,7 +53,3 @@ intermediate, expert).
 .. _`Agile Android Software Development`: http://www.agiledroid.com/
 
 .. _`vogella android tutorials`: http://www.vogella.com/tutorials/android.html
-
-Note:
-^^^^^
-The quality of these references is not confirmed.
