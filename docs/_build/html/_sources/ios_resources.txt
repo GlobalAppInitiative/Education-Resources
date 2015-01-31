@@ -4,12 +4,12 @@ iOS Resources
 Tutorial Sites
 --------------
 
-- TutsPlus_:
-- RayWenderlich_:
+- TutsPlus_
+- RayWenderlich_
 - iOS-Blog_: Swift and Objective-C tutorials. They also include articles about
   third party libraries and resources that can be helpful.
 - LearnSwift_: A curated list of helpful resources to learn Swift. Tutorials,
-  Code Samples, References and more! 
+  Code Samples, References and more!
 - CocaLit_: An index of high quality articles about programming in Cocoa.
 - CocoaDevCentral_: Tutorials and articles about Objective-C and Cocoa
   technologies.
@@ -24,7 +24,7 @@ Tutorial Sites
 
 Design
 ------
-- DesignGuidelines_: A great post about some design guidelines that includes a quick reference for resolutions and display specifications for different iOS devices. 
+- DesignGuidelines_: A great post about some design guidelines that includes a quick reference for resolutions and display specifications for different iOS devices.
 
 
 .. _DesignGuidelines: http://iosdesign.ivomynttinen.com/
@@ -36,6 +36,6 @@ Blogs
 - TheBigNerdRanch_
 - CarbonFive_
 
-.. _CocoaWithLoce: http://www.cocoawithlove.com/
+.. _CocoaWithLove: http://www.cocoawithlove.com/
 .. _TheBigNerdRanch: http://www.bignerdranch.com/blog/
 .. _CarbonFive: http://blog.carbonfive.com/category/mobile/
