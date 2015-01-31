@@ -48,11 +48,12 @@ Specific Guides
 - UICollectionView_: Similar to a table view but grid like.
 - `Gesture Recognition`_: "Using Gesture Recognizers to Handle Pinch, Rotate, Pan, Swipe and Tap Gestures."
 - Maps:
-  + Mapkit_
-  + `Google Maps`_
+
+  * Mapkit_
+  * `Google Maps`_
 - Parse_: You can find sample apps with their code that use Parse as a backend.
-- `Auto Layout`_:
-- `Twitter API`_:
+- `Auto Layout`_
+- `Twitter API`_
 
 
 .. _Scroll Views: http://www.raywenderlich.com/76436/use-uiscrollview-scroll-zoom-content-swift

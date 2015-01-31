@@ -5,7 +5,7 @@ Tutorial Sites
 --------------
 
 - HackDesign_: A weekly lesson plan created by design pros and meant for anyone
-                interested in designing for tech. Each lesson is emailed.
+  interested in designing for tech. Each lesson is emailed.
 
 - `Design and Code`_: Designer Meng To wrote a series of books and ebooks, some
   of which teach design for iOS and design software (Sketch).
@@ -17,8 +17,8 @@ Tutorial Sites
 .. _Design and Code: https://designcode.io
 
 
-Resources:
-----------
+Resources
+---------
 
 - teehan+lax_: iOS sketch and photoshop GUI templates.
 - GraphicBurger_: Photoshop templates and mockups.
@@ -32,14 +32,15 @@ Inspirational Pages
 -------------------
 
 - `Designer News`_: Good way to stay involved in the design community and hear
-                      about what's happening in the industry.
+  about what's happening in the industry.
 
 - Dribbble_ or Behance_: Designers and creative individuals upload their work.
-                          Good places for inspiration.
+  Good places for inspiration.
 
-_ Pttrns_: Amazing source of inspiration that shows UI screenshots from apps in
-          the App Store. Includes categories based on UI features and functions.
-_ Mobile Patterns: Features screenshots from well designed mobile apps.
++ Pttrns_: Amazing source of inspiration that shows UI screenshots from apps in
+  the App Store. Includes categories based on UI features and functions.
+
++ `Mobile Patterns`_: Features screenshots from well designed mobile apps.
 
 
 .. _Designer News: https://news.layervault.com/
