@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome
+GAI Education Resources
 =======
 
-Here are a few resources and guides to get you started with your projects.
+These docs provide the top education resources developed and recommended by the Global App Initiative education instructors.
 
 
 Contents:
