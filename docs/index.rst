@@ -14,7 +14,9 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
-   
+
    where_to_begin
    ios_resources
    android_resources
+   design_resources
+   general_resources
