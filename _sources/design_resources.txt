@@ -52,11 +52,15 @@ Inspirational Pages
 GAI SLP
 -------
 
-- Blueprint Wireframing: :download:`iOS <../SLP/Design/Blueprint_Wireframing_for_iOS_with_Photoshop.pdf>`
-  and :download:`Android <../SLP/Design/Blueprint_Wireframing_for_Android_with_Photoshop.pdf>`
+- Blueprint Wireframing: iOS_
+  and Android_
+- `Storyboarding with Balsamiq`_
+- `Introduction to Sketch`_
+- `Illustrator Tutorial`_
 
-- :download:`Storyboarding with Balsamiq <../SLP/Design/Storyboarding_with_Balsamiq.pdf>`
 
-- :download:`Introduction to Sketch <../SLP/Design/Intro_to_Sketch.pdf>`
-
-- :download:`Illustrator Tutorial <../SLP/Design/Illustrator_Tutorial.pdf>`
+.. _Illustrator Tutorial: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/Design/Illustrator_Tutorial.pdf
+.. _Introduction to Sketch: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/Design/Intro_to_Sketch.pdf
+.. _Storyboarding with Balsamiq: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/Design/Storyboarding_with_Balsamiq.pdf
+.. _Android: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/Design/Blueprint_Wireframing_for_Android_with_Photoshop.pdf
+.. _iOS: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/Design/Blueprint_Wireframing_for_iOS_with_Photoshop.pdf
