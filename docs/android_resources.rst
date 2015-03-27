@@ -60,8 +60,12 @@ GAI SLP
 -------
 
 
-- :download:`Parse Startup Guide <../SLP/Android/Parse_Startup_Guide.pdf>`
+- `Parse Startup Guide`_
 
-- :download:`User Login with Parse <../SLP/Android/Parse_Login.pdf>`
+- `User Login with Parse`_
 
-- :download:`User Registration with Parse <../SLP/Android/Registration.pdf>`
+- `User Registration with Parse`_
+
+.. _`Parse Startup Guide`: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/Android/Parse_Startup_Guide.pdf
+.. _`User Login with Parse`: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/Android/Parse_Login.pdf
+.. _`User Registration with Parse`: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/Android/Registration.pdf

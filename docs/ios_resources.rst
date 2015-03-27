@@ -41,28 +41,6 @@ Blogs
 .. _CarbonFive: http://blog.carbonfive.com/category/mobile/
 
 
-GAI SLP
--------
-- Objective-C:
-
-  - :download:`NSUserDefaults <../SLP/iOS/NSUserDefaults.pdf>`: Learn how to set up your
-    applications startup options.
-  - :download:`UITableView <../SLP/iOS/UITableView.pdf>`
-  - :download:`UIAlertView <../SLP/iOS/UIAlertView.pdf>`
-  - :download:`UICollectionView<../SLP/UICollectionView.pdf>`
-  - UIScrollView: :download:`Panning an image,  <../SLP/iOS/UIScrollView_Panning_an_Image.pdf>`:download:`and scrolling.<../SLP/iOS/UIScrollView_Scrolling.pdf>`.
-  - :download:`Breakpoints <../SLP/Breakpoints.pdf>`
-  - :download:`CoreData <../SLP/iOS/CoreData.pdf>`
-  - :download:`Debugging <../SLP/iOS/Debugging.pdf>`
-  - :download:`Delegation Protocols <../SLP/iOS/Delegation_Protocols.pdf>`
-  - :download:`MapKit <../SLP/iOS/MapKit.pdf>`
-  - :download:`Parse <../SLP/iOS/Parse.pdf>`
-
-- Swift:
-
-  - :download:`Introduction to Swift playgrounds <../SLP/iOS/T1.pdf>`
-  - :download:`Commenting and Basic types in Swift<../SLP/iOS/T2.pdf>`
-
 Specific Guides
 ---------------
 
@@ -72,9 +50,9 @@ Specific Guides
 - `Gesture Recognition`_: "Using Gesture Recognizers to Handle Pinch, Rotate, Pan, Swipe and Tap Gestures."
 - Maps:
 
-  * Mapkit_
+  * `Apple Mapkit`_
   * `Google Maps`_
-- Parse_: You can find sample apps with their code that use Parse as a backend.
+- `Parse Sample Apps`_: You can find sample apps with their code that use Parse as a backend.
 - `Auto Layout`_
 - `Twitter API`_
 
@@ -83,8 +61,47 @@ Specific Guides
 .. _Table Views: http://www.appcoda.com/uitableview-tutorial-storyboard-xcode5/
 .. _UICollectionView: http://www.raywenderlich.com/22324/beginning-uicollectionview-in-ios-6-part-12
 .. _Gesture Recognition: http://www.appcoda.com/ios-gesture-recognizers/
-.. _Mapkit: http://www.raywenderlich.com/21365/introduction-to-mapkit-in-ios-6-tutorial
+.. _`Apple Mapkit`: http://www.raywenderlich.com/21365/introduction-to-mapkit-in-ios-6-tutorial
 .. _Google Maps: http://www.raywenderlich.com/81103/introduction-google-maps-ios-sdk-swift
-.. _Parse: https://parse.com/tutorials
+.. _`Parse Sample Apps`: https://parse.com/tutorials
 .. _Auto Layout: http://www.raywenderlich.com/20881/beginning-auto-layout-part-1-of-2
 .. _Twitter API: http://www.raywenderlich.com/21558/beginning-twitter-tutorial-updated-for-ios-6
+
+GAI SLP
+-------
+- Objective-C:
+
+  - NSUserDefaults_: Learn how to set up your
+    applications startup options.
+  - UITableView_
+  - UIAlertView_
+  - `Quick Intro to UICollectionView`_
+  - UIScrollView: `Panning an image`_, and scrolling_.
+  - Breakpoints_
+  - CoreData_
+  - Debugging_
+  - `Delegation and Protocols`_
+  - Mapkit_
+  - Parse_
+
+- Swift:
+
+  - `Introduction to Swift playgrounds`_
+  - `Commenting and Basic types in Swift`_
+
+
+.. _NSUserDefaults: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/NSUserDefaults.pdf
+.. _UITableView: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/UITableView.pdf
+.. _UIAlertView: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/UIAlertView.pdf
+.. _`Quick Intro to UICollectionView`: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/UICollectionView.pdf
+.. _`Panning an image`: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/UIScrollView_Panning_an_Image.pdf
+.. _`scrolling`: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/UIScrollView_Scrolling.pdf
+.. _Parse: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/Parse.pdf
+.. _Mapkit: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/MapKit.pdf
+.. _`Delegation and Protocols`: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/Delegation_Protocols.pdf
+.. _Breakpoints: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/Breakpoints.pdf
+.. _CoreData: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/CoreData.pdf
+.. _Debugging: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/Debugging.pdf
+.. _UIAlertView: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/UIAlertView.pdf
+.. _`Introduction to Swift playgrounds`: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/T1.pdf
+.. _`Commenting and Basic types in Swift`: https://github.com/GlobalAppInitiative/Education-Resources/raw/master/SLP/iOS/T2.pdf
