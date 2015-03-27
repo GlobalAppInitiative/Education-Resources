@@ -48,3 +48,15 @@ Inspirational Pages
 .. _Behance: https://www.behance.net/
 .. _Pttrns: http://www.pttrns.com/
 .. _Mobile Patterns: http://www.mobile-patterns.com/
+
+GAI SLP
+-------
+
+- Blueprint Wireframing: :download:`iOS <../SLP/Design/Blueprint_Wireframing_for_iOS_with_Photoshop.pdf>`
+  and :download:`Android <../SLP/Design/Blueprint_Wireframing_for_Android_with_Photoshop.pdf>`
+
+- :download:`Storyboarding with Balsamiq <../SLP/Design/Storyboarding_with_Balsamiq.pdf>`
+
+- :download:`Introduction to Sketch <../SLP/Design/Intro_to_Sketch.pdf>`
+
+- :download:`Illustrator Tutorial <../SLP/Design/Illustrator_Tutorial.pdf>`
