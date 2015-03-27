@@ -40,6 +40,29 @@ Blogs
 .. _TheBigNerdRanch: http://www.bignerdranch.com/blog/
 .. _CarbonFive: http://blog.carbonfive.com/category/mobile/
 
+
+GAI SLP
+-------
+- Objective-C:
+
+  - :download:`NSUserDefaults <../SLP/iOS/NSUserDefaults.pdf>`: Learn how to set up your
+    applications startup options.
+  - :download:`UITableView <../SLP/iOS/UITableView.pdf>`
+  - :download:`UIAlertView <../SLP/iOS/UIAlertView.pdf>`
+  - :download:`UICollectionView<../SLP/UICollectionView.pdf>`
+  - UIScrollView: :download:`Panning an image,  <../SLP/iOS/UIScrollView_Panning_an_Image.pdf>`:download:`and scrolling.<../SLP/iOS/UIScrollView_Scrolling.pdf>`.
+  - :download:`Breakpoints <../SLP/Breakpoints.pdf>`
+  - :download:`CoreData <../SLP/iOS/CoreData.pdf>`
+  - :download:`Debugging <../SLP/iOS/Debugging.pdf>`
+  - :download:`Delegation Protocols <../SLP/iOS/Delegation_Protocols.pdf>`
+  - :download:`MapKit <../SLP/iOS/MapKit.pdf>`
+  - :download:`Parse <../SLP/iOS/Parse.pdf>`
+
+- Swift:
+
+  - :download:`Introduction to Swift playgrounds <../SLP/iOS/T1.pdf>`
+  - :download:`Commenting and Basic types in Swift<../SLP/iOS/T2.pdf>`
+
 Specific Guides
 ---------------
 

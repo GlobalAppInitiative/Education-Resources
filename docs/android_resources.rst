@@ -53,3 +53,15 @@ Guides
 .. _`Agile Android Software Development`: http://www.agiledroid.com/
 
 .. _`vogella android tutorials`: http://www.vogella.com/tutorials/android.html
+
+
+
+GAI SLP
+-------
+
+
+- :download:`Parse Startup Guide <../SLP/Android/Parse_Startup_Guide.pdf>`
+
+- :download:`User Login with Parse <../SLP/Android/Parse_Login.pdf>`
+
+- :download:`User Registration with Parse <../SLP/Android/Registration.pdf>`
