@@ -1,6 +1,22 @@
 iOS Resources
 =============
 
+Library Collections
+-------------------
+
+- `Awesome iOS`_: A curated list of awesome iOS frameworks, libraries, tutorials, Xcode plugins, components and much more.
+- `Awesome iOS UI`_:  A curated list of awesome iOS UI/UX libraries. Includes previews.
+- `Swift Toolbox`_:
+  Swift toolbox is a community-supported catalog
+  of iOS and OSX libraries written in the
+  Swift Programming Language.
+
+
+.. _`Awesome iOS`: https://github.com/vsouza/awesome-ios
+.. _`Awesome iOS UI`: https://github.com/cjwirth/awesome-ios-ui
+.. _`Swift Toolbox`: http://www.swifttoolbox.io/
+
+
 Tutorial Sites
 --------------
 
@@ -10,24 +26,31 @@ Tutorial Sites
   third party libraries and resources that can be helpful.
 - LearnSwift_: A curated list of helpful resources to learn Swift. Tutorials,
   Code Samples, References and more!
-- CocaLit_: An index of high quality articles about programming in Cocoa.
 - CocoaDevCentral_: Tutorials and articles about Objective-C and Cocoa
   technologies.
+- AppCoda_
+- `Vea Software`_: Video tutorials.
+- Shrikar_:Learn iOS application development by building real world apps.
+- Techotopia_
 
 
 .. _TutsPlus: http://code.tutsplus.com/categories/ios-sdk
 .. _RayWenderlich: http://www.raywenderlich.com/
 .. _iOS-Blog: http://ios-blog.co.uk/
 .. _LearnSwift: http://www.learnswift.tips/
-.. _CocaLit: http://cocoalit.com/
 .. _CocoaDevCentral: http://cocoadevcentral.com/
+.. _AppCoda: http://www.appcoda.com/
+.. _`Vea Software`: https://www.veasoftware.com/
+.. _Shrikar: http://shrikar.com/
+.. _Techotopia: http://www.techotopia.com/index.php/IOS_iPhone_iPad_eBooks
 
 Design
 ------
-- DesignGuidelines_: A great post about some design guidelines that includes a quick reference for resolutions and display specifications for different iOS devices.
+- `Design Guidelines`_: A great post about some design guidelines that includes a quick reference for resolutions and display specifications for different iOS devices.
+- `iOS8 UI Kit`_: A free iOS8 UIKit for Sketch and Photoshop.
 
-
-.. _DesignGuidelines: http://iosdesign.ivomynttinen.com/
+.. _`Design Guidelines`: http://iosdesign.ivomynttinen.com/
+.. _`iOS8 UI Kit`: http://www.uxpin.com/ios8-ui-kit.html
 
 
 Blogs
@@ -41,13 +64,13 @@ Blogs
 .. _CarbonFive: http://blog.carbonfive.com/category/mobile/
 
 
-Specific Guides
----------------
+Specific Tutorials
+------------------
 
 - `Scroll Views`_: If you want something to scroll but not a table view.
 - `Table Views`_
 - UICollectionView_: Similar to a table view but grid like.
-- `Gesture Recognition`_: "Using Gesture Recognizers to Handle Pinch, Rotate, Pan, Swipe and Tap Gestures."
+- `Gesture Recognition`_
 - Maps:
 
   * `Apple Mapkit`_
@@ -55,17 +78,31 @@ Specific Guides
 - `Parse Sample Apps`_: You can find sample apps with their code that use Parse as a backend.
 - `Auto Layout`_
 - `Twitter API`_
+- `Action Sheet iOS8`_
 
 
 .. _Scroll Views: http://www.raywenderlich.com/76436/use-uiscrollview-scroll-zoom-content-swift
 .. _Table Views: http://www.appcoda.com/uitableview-tutorial-storyboard-xcode5/
 .. _UICollectionView: http://www.raywenderlich.com/22324/beginning-uicollectionview-in-ios-6-part-12
-.. _Gesture Recognition: http://www.appcoda.com/ios-gesture-recognizers/
+.. _Gesture Recognition: http://www.avocarrot.com/blog/implement-gesture-recognizers-swift/
 .. _`Apple Mapkit`: http://www.raywenderlich.com/21365/introduction-to-mapkit-in-ios-6-tutorial
 .. _Google Maps: http://www.raywenderlich.com/81103/introduction-google-maps-ios-sdk-swift
 .. _`Parse Sample Apps`: https://parse.com/tutorials
 .. _Auto Layout: http://www.raywenderlich.com/20881/beginning-auto-layout-part-1-of-2
 .. _Twitter API: http://www.raywenderlich.com/21558/beginning-twitter-tutorial-updated-for-ios-6
+.. _`Action Sheet iOS8`: http://www.ioscreator.com/tutorials/action-sheet-tutorial-ios8-swift
+
+
+Design Patterns & Style Guide
+-----------------------------
+
+- `Design Patterns in Swift`_
+- `Swift Style Guide`_
+- `Objective-C Style Guide`_
+
+.. _`Design Patterns in Swift`: https://github.com/ochococo/Design-Patterns-In-Swift
+.. _`Swift Style Guide`: https://github.com/raywenderlich/swift-style-guide
+.. _`Objective-C Style Guide`: https://github.com/raywenderlich/objective-c-style-guide
 
 GAI SLP
 -------
