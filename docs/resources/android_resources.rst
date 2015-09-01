@@ -1,5 +1,5 @@
-Android Resources
-=================
+Android
+=======
 
 If you're a complete beginner take a look at this article by LifeHacker_.
 

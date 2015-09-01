@@ -1,5 +1,5 @@
-Design Resources
-================
+Design
+======
 
 Tutorial Sites
 --------------

@@ -9,14 +9,22 @@ GAI Education Resources
 These docs provide the top education resources developed and recommended by the Global App Initiative education instructors.
 
 
-Contents:
----------
+Getting Started
+---------------
+.. toctree::
+   :maxdepth: 1
+
+  start/programming_guide
+  start/ios_guide
+  start/android_guide
+  start/design_guide
+
+Resources:
+----------
 
 .. toctree::
    :maxdepth: 1
 
-   where_to_begin
-   ios_resources
-   android_resources
-   design_resources
-   general_resources
+   resources/ios_resources
+   resources/android_resources
+   resources/design_resources
