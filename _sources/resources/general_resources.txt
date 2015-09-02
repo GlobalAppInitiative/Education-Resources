@@ -1,5 +1,5 @@
-General Resources
-=================
+General
+=======
 
 - Codecademy_: Great for learning the very basic foundamental programming skills.
   Great for very beginner programmers learning their first language.

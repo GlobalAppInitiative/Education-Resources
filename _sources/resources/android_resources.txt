@@ -7,24 +7,16 @@ Guides
 ------
 
 - `CodePath Android Cliff Notes`_: Crowd sourced android guides for every level (beginner,intermediate, expert).
-
 - `Getting Started by Google`_
-
 - `Android Fundamentals`_: An online course built in collaboration with
   Google. Build a cloud-connected Android app, and learn the tools, principles,
   and best practices of mobile and Android development that you'll apply to your
   own projects.
-
 - `Android 4 App Development Essentials`_
-
 - `coreservlets.com`_: Android programming Tutorials.
-
 - `Styling Android`_: A guide to applying styles and themes to Android apps.
-
 - `TechnoTalkative`_: Android tutorials by technology and topic.
-
 - `Agile Android Software Development`_: A book. Requires email conformation.
-
 - `vogella android tutorials`_
 
 
