@@ -1,5 +1,17 @@
-Design
+Design Resources
+================
+
+Sketch
 ======
+
+- `LevelUp Sketch Video Tutorials`_
+- `TeamTreeHouse Sketch Basics`_
+- `Sketch App Sources`_: Has a collection of assests and links to tutorials.
+
+
+.. _`LevelUp Sketch Video Tutorials`: http://leveluptuts.com/tutorials/sketch-3-tutorials
+.. _`TeamTreeHouse Sketch Basics`: http://teamtreehouse.com/library/sketch-basics
+.. _`Sketch App Sources`: http://www.sketchappsources.com/
 
 Tutorial Sites
 --------------
@@ -33,14 +45,12 @@ Inspirational Pages
 
 - `Designer News`_: Good way to stay involved in the design community and hear
   about what's happening in the industry.
-
 - Dribbble_ or Behance_: Designers and creative individuals upload their work.
   Good places for inspiration.
 
-+ Pttrns_: Amazing source of inspiration that shows UI screenshots from apps in
-  the App Store. Includes categories based on UI features and functions.
-
-+ `Mobile Patterns`_: Features screenshots from well designed mobile apps.
+  * Pttrns_: Amazing source of inspiration that shows UI screenshots from apps in
+    the App Store. Includes categories based on UI features and functions.
+  * `Mobile Patterns`_: Features screenshots from well designed mobile apps.
 
 
 .. _Designer News: https://news.layervault.com/

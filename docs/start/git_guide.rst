@@ -33,6 +33,7 @@ these resources:
 .. _`git basics course`: http://teamtreehouse.com/library/git-basics
 .. _`Practical Guide to Git`: http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
 .. _`Think Like a Git`: http://think-like-a-git.net/
+.. _Github: https://github.com/
 
 
 
