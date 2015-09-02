@@ -4,27 +4,13 @@
    contain the root `toctree` directive.
 
 GAI Education Resources
-=======
+=======================
 
-These docs provide the top education resources developed and recommended by the Global App Initiative education instructors.
-
-
-Getting Started
----------------
-.. toctree::
-   :maxdepth: 1
-
-  start/programming_guide
-  start/ios_guide
-  start/android_guide
-  start/design_guide
-
-Resources:
-----------
+These docs provide the top education resources developed and recommended by the
+Global App Initiative education instructors.
 
 .. toctree::
-   :maxdepth: 1
+  :maxdepth: 2
 
-   resources/ios_resources
-   resources/android_resources
-   resources/design_resources
+  getting_started
+  resources
