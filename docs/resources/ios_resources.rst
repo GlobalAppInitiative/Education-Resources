@@ -10,12 +10,24 @@ Library Collections
   Swift toolbox is a community-supported catalog
   of iOS and OSX libraries written in the
   Swift Programming Language.
+- `Open Source iOS Apps`_: A list of open source apps that you can learn/get inspired from.
 
 
 .. _`Awesome iOS`: https://github.com/vsouza/awesome-ios
 .. _`Awesome iOS UI`: https://github.com/cjwirth/awesome-ios-ui
 .. _`Swift Toolbox`: http://www.swifttoolbox.io/
+.. _`Open Source iOS Apps`: https://github.com/dkhamsing/open-source-ios-apps
 
+Swift
+-----
+
+- Awesome-Swift-Education_: A list of resources about learning about Swift.
+- LearnSwift_: A curated list of helpful resources to learn Swift. Tutorials,
+  Code Samples, References and more!
+
+
+.. _LearnSwift: http://www.learnswift.tips/
+.. _Awesome-Swift-Education: https://github.com/hsavit1/Awesome-Swift-Education
 
 Tutorial Sites
 --------------
@@ -24,8 +36,6 @@ Tutorial Sites
 - RayWenderlich_
 - iOS-Blog_: Swift and Objective-C tutorials. They also include articles about
   third party libraries and resources that can be helpful.
-- LearnSwift_: A curated list of helpful resources to learn Swift. Tutorials,
-  Code Samples, References and more!
 - CocoaDevCentral_: Tutorials and articles about Objective-C and Cocoa
   technologies.
 - AppCoda_
@@ -37,7 +47,6 @@ Tutorial Sites
 .. _TutsPlus: http://code.tutsplus.com/categories/ios-sdk
 .. _RayWenderlich: http://www.raywenderlich.com/
 .. _iOS-Blog: http://ios-blog.co.uk/
-.. _LearnSwift: http://www.learnswift.tips/
 .. _CocoaDevCentral: http://cocoadevcentral.com/
 .. _AppCoda: http://www.appcoda.com/
 .. _`Vea Software`: https://www.veasoftware.com/
@@ -67,6 +76,7 @@ Blogs
 Specific Tutorials
 ------------------
 
+- Firebase_
 - `Scroll Views`_: If you want something to scroll but not a table view.
 - `Table Views`_
 - UICollectionView_: Similar to a table view but grid like.
@@ -75,19 +85,17 @@ Specific Tutorials
 
   * `Apple Mapkit`_
   * `Google Maps`_
-- `Parse Sample Apps`_: You can find sample apps with their code that use Parse as a backend.
 - `Auto Layout`_
 - `Twitter API`_
 - `Action Sheet iOS8`_
 
-
+.. _Firebase: https://www.raywenderlich.com/109706/firebase-tutorial-getting-started
 .. _Scroll Views: http://www.raywenderlich.com/76436/use-uiscrollview-scroll-zoom-content-swift
 .. _Table Views: http://www.appcoda.com/uitableview-tutorial-storyboard-xcode5/
 .. _UICollectionView: http://www.raywenderlich.com/22324/beginning-uicollectionview-in-ios-6-part-12
 .. _Gesture Recognition: http://www.avocarrot.com/blog/implement-gesture-recognizers-swift/
 .. _`Apple Mapkit`: http://www.raywenderlich.com/21365/introduction-to-mapkit-in-ios-6-tutorial
 .. _Google Maps: http://www.raywenderlich.com/81103/introduction-google-maps-ios-sdk-swift
-.. _`Parse Sample Apps`: https://parse.com/tutorials
 .. _Auto Layout: http://www.raywenderlich.com/20881/beginning-auto-layout-part-1-of-2
 .. _Twitter API: http://www.raywenderlich.com/21558/beginning-twitter-tutorial-updated-for-ios-6
 .. _`Action Sheet iOS8`: http://www.ioscreator.com/tutorials/action-sheet-tutorial-ios8-swift
