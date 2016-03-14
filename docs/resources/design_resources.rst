@@ -1,12 +1,27 @@
 Design Resources
 ================
 
+Icons/Stock
+-----------
+
+- `Awesome Stock Resources`_: A curated list of awesome stock photography, video and illustration websites.
+- EvilIcons_
+- MaterialIcons_
+- TheNounProject_: Icons based on nouns
+_ FlatIcon_
+
+.. _`Awesome Stock Resources`: https://github.com/neutraltone/awesome-stock-resources
+.. _EvilIcons: http://evil-icons.io/
+.. _MaterialIcons: http://www.google.com/design/icons/
+.. _TheNounProject: https://thenounproject.com/
+.. _FlatIcon: http://www.flaticon.com/
+
 Sketch
-======
+------
 
 - `LevelUp Sketch Video Tutorials`_
 - `TeamTreeHouse Sketch Basics`_
-- `Sketch App Sources`_: Has a collection of assests and links to tutorials.
+- `Sketch App Sources`_: Has a collection of assets and links to tutorials.
 
 
 .. _`LevelUp Sketch Video Tutorials`: http://leveluptuts.com/tutorials/sketch-3-tutorials
