@@ -24,7 +24,7 @@ In-Depth
 - `Think Like a Git`_: If you want a deeper understanding of how git works.
 
 .. _`Think Like a Git`: http://think-like-a-git.net/
-.. _`Atlassian git Tutorial`_: https://www.atlassian.com/git/tutorials/
+.. _`Atlassian git Tutorial`: https://www.atlassian.com/git/tutorials/
 .. _`Git Pro`: https://git-scm.com/book/en/v2
 
 
