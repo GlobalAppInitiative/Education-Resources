@@ -28,6 +28,6 @@ General
   idea where to look for.
 
 .. _Codecademy: http://www.codecademy.com/
-.. _TeamTreeHouse:http://teamtreehouse.com/
+.. _TeamTreeHouse: http://teamtreehouse.com/
 .. _Mozilla Developer Tools: https://developer.mozilla.org/en-US/
 .. _StackOverflow: http://stackoverflow.com

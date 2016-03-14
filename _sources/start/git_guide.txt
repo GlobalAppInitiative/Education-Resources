@@ -37,7 +37,7 @@ these resources:
 .. _`Practical Guide to Git`: http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
 .. _`Think Like a Git`: http://think-like-a-git.net/
 .. _Github: https://github.com/
-.. _`Atlassian git Tutorial`_: https://www.atlassian.com/git/tutorials/
+.. _`Atlassian git Tutorial`: https://www.atlassian.com/git/tutorials/
 
 
 

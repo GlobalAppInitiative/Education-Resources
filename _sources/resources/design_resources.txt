@@ -10,6 +10,7 @@ Icons/Stock
 - TheNounProject_: Icons based on nouns
 _ FlatIcon_
 
+
 .. _`Awesome Stock Resources`: https://github.com/neutraltone/awesome-stock-resources
 .. _EvilIcons: http://evil-icons.io/
 .. _MaterialIcons: http://www.google.com/design/icons/
