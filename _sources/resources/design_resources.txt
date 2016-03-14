@@ -8,7 +8,7 @@ Icons/Stock
 - EvilIcons_
 - MaterialIcons_
 - TheNounProject_: Icons based on nouns
-_ FlatIcon_
+- FlatIcon_
 
 
 .. _`Awesome Stock Resources`: https://github.com/neutraltone/awesome-stock-resources
