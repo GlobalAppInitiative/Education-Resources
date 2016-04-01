@@ -8,6 +8,7 @@ Guides
 
 - `CodePath Android Cliff Notes`_: Crowd sourced android guides for every level (beginner,intermediate, expert).
 - `Getting Started by Google`_
+- `Android Architecture Blueprints`_: A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - `Android Fundamentals`_: An online course built in collaboration with
   Google. Build a cloud-connected Android app, and learn the tools, principles,
   and best practices of mobile and Android development that you'll apply to your
@@ -25,7 +26,7 @@ Guides
 .. LINKS for the above.
 
 
-
+.. _`Android Architecture Blueprints`: https://github.com/googlesamples/android-architecture
 .. _LifeHacker: http://lifehacker.com/i-want-to-write-android-apps-where-do-i-start-1643818268
 
 .. _`CodePath Android Cliff Notes`: https://github.com/codepath/android_guides/wiki
